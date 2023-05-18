@@ -1,0 +1,34 @@
+1) Create an application to demonstrate Lifecycle Of Activity.
+2) Create first activiy to accept information like name, address, date of birth, email, contact number and display all information on second activiy.
+3) Create a simple application which send "Hello" message from one activiy to another with the help of button.
+4) Create a Calculator application in android.
+5) Create a simple login application. on successful login, gives message go to next activiy.(without database)
+6) Create a android application which has spinner consisting list of programming languages. Display appropriate message when  user clicks on any the item of spinner.
+7) Create an application to create a user account and store the account details in database.
+8) Create an android application to convert the interest rates from :-
+	a. yearly to monthly
+	b. monthly to yearly
+	Accept rate of interest from the user
+9) Create a android application and display some information of meta company along along with the photo of its CEO.
+10) Create application to demonstrate date and time picker.
+11) Construct an app that toggles a light bulb on and off when the user clicks on toggle button.
+12) Create application demonstrating the use of ImageSwitcher.
+13) Create a custom launcher icon.
+14 Create a Gallery application in Android.
+15) Create a bank application having option menu to withdraw.
+16) Create simple application to send a SMS.
+17) Create simple application to send an email.
+18) Create a simple application to Nevigate / Locate a specific location.
+19) Create a application to display the information about the location using Geocoding.
+20) Create table company (id, name ,address, phone number). Create an application to perform the following operations: 
+	a. Insert a new company details
+	b. Show all company details
+21) Create table student (id, name, phone number). create an application to perform the following operations:
+		a. Insert a student record
+		b. Delete a student record
+22) Create an application to display an AutoCompleteTextViews.
+23) Create a simple application for food ordering system. Generate and display the bill on the next screen.
+24) Create a simple quiz application having 10 questions. Generate and display proper score on the toast message.
+25) Construct an app that accepts username and password. Store this user name and password in SQLite Database.
+26) Create a simple Login Application and use the above database to validate your login app.
+
